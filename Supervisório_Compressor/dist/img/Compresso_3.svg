@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="137mm" height="74mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 13700 7400"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str25 {stroke:#2B2A29;stroke-width:17.64}
+    .str31 {stroke:black;stroke-width:7.62}
+    .str40 {stroke:#2B2A29;stroke-width:3.54}
+    .str33 {stroke:#2B2A29;stroke-width:3.54}
+    .str46 {stroke:#2B2A29;stroke-width:3.8}
+    .str51 {stroke:#2B2A29;stroke-width:3.8}
+    .str52 {stroke:#2B2A29;stroke-width:3.8}
+    .str43 {stroke:#2B2A29;stroke-width:3.8}
+    .str42 {stroke:#2B2A29;stroke-width:3.8}
+    .str44 {stroke:#2B2A29;stroke-width:3.8}
+    .str48 {stroke:#2B2A29;stroke-width:3.8}
+    .str47 {stroke:#2B2A29;stroke-width:3.8}
+    .str49 {stroke:#2B2A29;stroke-width:3.8}
+    .str50 {stroke:#2B2A29;stroke-width:3.8}
+    .str26 {stroke:black;stroke-width:3.8}
+    .str18 {stroke:#222844;stroke-width:3.8}
+    .str28 {stroke:black;stroke-width:3.8}
+    .str3 {stroke:#222844;stroke-width:3.8}
+    .str21 {stroke:#1F1B20;stroke-width:3.8}
+    .str19 {stroke:#222844;stroke-width:3.8}
+    .str1 {stroke:#343E61;stroke-width:3.8}
+    .str5 {stroke:black;stroke-width:3.8}
+    .str2 {stroke:#343E61;stroke-width:3.8}
+    .str6 {stroke:#1F1B20;stroke-width:3.8}
+    .str24 {stroke:#343E61;stroke-width:3.8}
+    .str23 {stroke:#343E61;stroke-width:3.8}
+    .str0 {stroke:#343E61;stroke-width:3.8}
+    .str15 {stroke:#222844;stroke-width:3.8}
+    .str10 {stroke:#222844;stroke-width:3.8}
+    .str20 {stroke:#1F1B20;stroke-width:3.8}
+    .str8 {stroke:#222844;stroke-width:3.8}
+    .str22 {stroke:#1F1B20;stroke-width:3.8}
+    .str7 {stroke:#222844;stroke-width:3.8}
+    .str9 {stroke:#222844;stroke-width:3.8}
+    .str4 {stroke:black;stroke-width:3.8}
+    .str27 {stroke:black;stroke-width:3.8}
+    .str14 {stroke:#222844;stroke-width:3.8}
+    .str12 {stroke:#222844;stroke-width:3.8}
+    .str11 {stroke:#222844;stroke-width:3.8}
+    .str13 {stroke:#222844;stroke-width:3.8}
+    .str61 {stroke:#2B2A29;stroke-width:3.8}
+    .str57 {stroke:#2B2A29;stroke-width:3.8}
+    .str60 {stroke:#2B2A29;stroke-width:3.8}
+    .str32 {stroke:#2B2A29;stroke-width:3.8}
+    .str53 {stroke:#2B2A29;stroke-width:3.8}
+    .str37 {stroke:#2B2A29;stroke-width:3.8}
+    .str58 {stroke:#2B2A29;stroke-width:3.8}
+    .str55 {stroke:#2B2A29;stroke-width:3.8}
+    .str41 {stroke:#2B2A29;stroke-width:3.8}
+    .str36 {stroke:#2B2A29;stroke-width:3.8}
+    .str59 {stroke:#2B2A29;stroke-width:3.8}
+    .str62 {stroke:#2B2A29;stroke-width:3.8}
+    .str35 {stroke:#2B2A29;stroke-width:3.8}
+    .str56 {stroke:#2B2A29;stroke-width:3.8}
+    .str63 {stroke:#2B2A29;stroke-width:3.8}
+    .str54 {stroke:#2B2A29;stroke-width:3.8}
+    .str16 {stroke:#1F1B20;stroke-width:3.8}
+    .str29 {stroke:#1F1B20;stroke-width:3.8}
+    .str17 {stroke:#1F1B20;stroke-width:3.8}
+    .str30 {stroke:#1F1B20;stroke-width:3.8}
+    .str34 {stroke:#2B2A29;stroke-width:3.8}
+    .str39 {stroke:#2B2A29;stroke-width:3.8}
+    .str38 {stroke:#2B2A29;stroke-width:3.8}
+    .str45 {stroke:#2B2A29;stroke-width:3.8}
+    .fil13 {fill:none}
+    .fil32 {fill:none;fill-rule:nonzero}
+    .fil39 {fill:#C5C6C6}
+    .fil30 {fill:#9D9E9E}
+    .fil34 {fill:#898989}
+    .fil60 {fill:#727271}
+    .fil28 {fill:#5B5B5B}
+    .fil29 {fill:#434242}
+    .fil15 {fill:#2B2A29}
+    .fil14 {fill:#1F1B20}
+    .fil11 {fill:#252335}
+    .fil16 {fill:#222844}
+    .fil46 {fill:#53402A}
+    .fil6 {fill:#2B2A29;fill-rule:nonzero}
+    .fil24 {fill:#343E61;fill-rule:nonzero}
+    .fil3 {fill:black;fill-rule:nonzero}
+    .fil27 {fill:#998123;fill-rule:nonzero}
+    .fil1 {fill:red;fill-rule:nonzero}
+    .fil23 {fill:url(#id2)}
+    .fil45 {fill:url(#id3)}
+    .fil38 {fill:url(#id4)}
+    .fil48 {fill:url(#id5)}
+    .fil49 {fill:url(#id6)}
+    .fil47 {fill:url(#id7)}
+    .fil10 {fill:url(#id8)}
+    .fil12 {fill:url(#id9)}
+    .fil56 {fill:url(#id10)}
+    .fil57 {fill:url(#id11)}
+    .fil20 {fill:url(#id12)}
+    .fil43 {fill:url(#id13)}
+    .fil59 {fill:url(#id14)}
+    .fil21 {fill:url(#id15)}
+    .fil18 {fill:url(#id16)}
+    .fil55 {fill:url(#id17)}
+    .fil31 {fill:url(#id18)}
+    .fil19 {fill:url(#id19)}
+    .fil26 {fill:url(#id20)}
+    .fil51 {fill:url(#id21)}
+    .fil52 {fill:url(#id22)}
+    .fil4 {fill:url(#id23)}
+    .fil22 {fill:url(#id24)}
+    .fil40 {fill:url(#id25)}
+    .fil54 {fill:url(#id26)}
+    .fil7 {fill:url(#id27)}
+    .fil8 {fill:url(#id28)}
+    .fil33 {fill:url(#id29)}
+    .fil50 {fill:url(#id30)}
+    .fil35 {fill:url(#id31)}
+    .fil58 {fill:url(#id32)}
+    .fil36 {fill:url(#id33)}
+    .fil0 {fill:url(#id34)}
+    .fil44 {fill:url(#id35)}
+    .fil2 {fill:url(#id36)}
+    .fil5 {fill:url(#id37)}
+    .fil37 {fill:url(#id38)}
+    .fil25 {fill:url(#id39)}
+    .fil9 {fill:url(#id40)}
+    .fil42 {fill:url(#id41)}
+    .fil41 {fill:url(#id42)}
+    .fil17 {fill:url(#id43)}
+    .fil53 {fill:url(#id44)}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M4439 1953l154 0 0 478 -154 0 0 -478z"/>
+   </clipPath>
+   <clipPath id="id1">
+    <path d="M3845 1953l594 0 0 478 -594 0 0 -478z"/>
+   </clipPath>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="4650" y1="2197" x2="4586" y2="2191">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B3152"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5F668D"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="1676" y1="2631" x2="1676" y2="2028">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2A29"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#E1E3E4"/>
+   <stop offset="0.721569" style="stop-opacity:1; stop-color:#F3F4F5"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A6A7A8"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="3473" y1="142" x2="2460" y2="142">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2A29"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#686969"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#E5E4E5"/>
+   <stop offset="0.788235" style="stop-opacity:1; stop-color:#ABABAD"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="3426" y1="2764" x2="3426" y2="2006">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2A29"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" xlink:href="#id5" x1="2862" y1="2602" x2="2862" y2="2120">
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" xlink:href="#id5" x1="3358" y1="2764" x2="3358" y2="2006">
+  </linearGradient>
+  <linearGradient id="id8" gradientUnits="userSpaceOnUse" x1="5821" y1="1493" x2="6063" y2="2811">
+   <stop offset="0" style="stop-opacity:1; stop-color:#72799F"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#343E62"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#292D4E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1F1B20"/>
+  </linearGradient>
+  <linearGradient id="id9" gradientUnits="userSpaceOnUse" x1="5653" y1="1564" x2="6270" y2="2366">
+   <stop offset="0" style="stop-opacity:1; stop-color:#72799F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#222844"/>
+  </linearGradient>
+  <linearGradient id="id10" gradientUnits="userSpaceOnUse" x1="1551" y1="3012" x2="1942" y2="3012">
+   <stop offset="0" style="stop-opacity:1; stop-color:#797061"/>
+   <stop offset="0.219608" style="stop-opacity:1; stop-color:#513E28"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#987E63"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#795D42"/>
+  </linearGradient>
+  <linearGradient id="id11" gradientUnits="userSpaceOnUse" xlink:href="#id10" x1="1551" y1="2952" x2="1942" y2="2952">
+  </linearGradient>
+  <linearGradient id="id12" gradientUnits="userSpaceOnUse" x1="5979" y1="2026" x2="5908" y2="1646">
+   <stop offset="0" style="stop-opacity:1; stop-color:#1F1B20"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#474343"/>
+  </linearGradient>
+  <linearGradient id="id13" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="1918" y1="2550" x2="1918" y2="2108">
+  </linearGradient>
+  <linearGradient id="id14" gradientUnits="userSpaceOnUse" x1="3678" y1="3148" x2="3450" y2="2793">
+   <stop offset="0" style="stop-opacity:1; stop-color:#727271"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#232323"/>
+  </linearGradient>
+  <linearGradient id="id15" gradientUnits="userSpaceOnUse" xlink:href="#id2" x1="4830" y1="2152" x2="4776" y2="2150">
+  </linearGradient>
+  <linearGradient id="id16" gradientUnits="userSpaceOnUse" xlink:href="#id12" x1="5973" y1="1953" x2="5906" y2="1586">
+  </linearGradient>
+  <linearGradient id="id17" gradientUnits="userSpaceOnUse" xlink:href="#id10" x1="1618" y1="3072" x2="1876" y2="3072">
+  </linearGradient>
+  <linearGradient id="id18" gradientUnits="userSpaceOnUse" x1="4061" y1="4988" x2="4061" y2="3824">
+   <stop offset="0" style="stop-opacity:1; stop-color:#666666"/>
+   <stop offset="0.231373" style="stop-opacity:1; stop-color:#999898"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#B4B4B5"/>
+   <stop offset="0.541176" style="stop-opacity:1; stop-color:#E9E9E9"/>
+   <stop offset="0.929412" style="stop-opacity:1; stop-color:#D4D4D5"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+  <linearGradient id="id19" gradientUnits="userSpaceOnUse" xlink:href="#id12" x1="6011" y1="1926" x2="5879" y2="1676">
+  </linearGradient>
+  <linearGradient id="id20" gradientUnits="userSpaceOnUse" x1="4137" y1="2432" x2="4147" y2="1953">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6D5A1B"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#B9A464"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D6E01B"/>
+  </linearGradient>
+  <linearGradient id="id21" gradientUnits="userSpaceOnUse" x1="1659" y1="3584" x2="1825" y2="3584">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9D9B91"/>
+   <stop offset="0.168627" style="stop-opacity:1; stop-color:#4D3A25"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#997F64"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#73573B"/>
+  </linearGradient>
+  <linearGradient id="id22" gradientUnits="userSpaceOnUse" x1="3736" y1="5994" x2="3736" y2="5829">
+   <stop offset="0" style="stop-opacity:1; stop-color:#908B80"/>
+   <stop offset="0.105882" style="stop-opacity:1; stop-color:#867562"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#4E3B26"/>
+   <stop offset="0.760784" style="stop-opacity:1; stop-color:#987E64"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7B5F43"/>
+  </linearGradient>
+  <linearGradient id="id23" gradientUnits="userSpaceOnUse" x1="628" y1="4988" x2="628" y2="3824">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.258824" style="stop-opacity:1; stop-color:#9E9E9E"/>
+   <stop offset="0.470588" style="stop-opacity:1; stop-color:#F0F0F0"/>
+   <stop offset="0.741176" style="stop-opacity:1; stop-color:#DEDEDE"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+  <linearGradient id="id24" gradientUnits="userSpaceOnUse" xlink:href="#id2" x1="4804" y1="2204" x2="4620" y2="2184">
+  </linearGradient>
+  <linearGradient id="id25" gradientUnits="userSpaceOnUse" x1="3248" y1="1798" x2="2692" y2="1128">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2A29"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E9E9E9"/>
+  </linearGradient>
+  <linearGradient id="id26" gradientUnits="userSpaceOnUse" xlink:href="#id10" x1="1613" y1="2892" x2="1871" y2="2892">
+  </linearGradient>
+  <linearGradient id="id27" gradientUnits="userSpaceOnUse" x1="7327" y1="2191" x2="7267" y2="2186">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5F668D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#2B3152"/>
+  </linearGradient>
+  <linearGradient id="id28" gradientUnits="userSpaceOnUse" xlink:href="#id27" x1="7298" y1="2213" x2="7074" y2="2186">
+  </linearGradient>
+  <linearGradient id="id29" gradientUnits="userSpaceOnUse" xlink:href="#id18" x1="3692" y1="6181" x2="3692" y2="5424">
+  </linearGradient>
+  <linearGradient id="id30" gradientUnits="userSpaceOnUse" x1="2167" y1="1538" x2="2167" y2="1372">
+   <stop offset="0" style="stop-opacity:1; stop-color:#63482D"/>
+   <stop offset="0.2" style="stop-opacity:1; stop-color:#896C4E"/>
+   <stop offset="0.788235" style="stop-opacity:1; stop-color:#463521"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#AFB0A8"/>
+  </linearGradient>
+  <linearGradient id="id31" gradientUnits="userSpaceOnUse" x1="2939" y1="2819" x2="2980" y2="1538">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2A29"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#484949"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#6E6E6F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id32" gradientUnits="userSpaceOnUse" x1="6065" y1="3186" x2="6065" y2="3070">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFED00"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F1C26A"/>
+  </linearGradient>
+  <linearGradient id="id33" gradientUnits="userSpaceOnUse" xlink:href="#id4" x1="3726" y1="2644" x2="3726" y2="1712">
+  </linearGradient>
+  <linearGradient id="id34" gradientUnits="userSpaceOnUse" x1="3272" y1="1436" x2="2648" y2="1538">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+  <linearGradient id="id35" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="1462" y1="2389" x2="1462" y2="2269">
+  </linearGradient>
+  <linearGradient id="id36" gradientUnits="userSpaceOnUse" xlink:href="#id34" x1="3280" y1="786" x2="2653" y2="795">
+  </linearGradient>
+  <linearGradient id="id37" gradientUnits="userSpaceOnUse" xlink:href="#id5" x1="3494" y1="5206" x2="3889" y2="5206">
+  </linearGradient>
+  <linearGradient id="id38" gradientUnits="userSpaceOnUse" xlink:href="#id4" x1="3768" y1="2705" x2="3768" y2="1617">
+  </linearGradient>
+  <linearGradient id="id39" gradientUnits="userSpaceOnUse" x1="4497" y1="2430" x2="4536" y2="1955">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2A29"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#D0D1D1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#CDCDCD"/>
+  </linearGradient>
+  <linearGradient id="id40" gradientUnits="userSpaceOnUse" xlink:href="#id27" x1="7098" y1="2155" x2="7057" y2="2155">
+  </linearGradient>
+  <radialGradient id="id41" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 -0 -0 0.999987 0 0)" cx="2970" cy="1463" r="2693" fx="2970" fy="1463">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FEFEFE"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#555554"/>
+  </radialGradient>
+  <radialGradient id="id42" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.811001 -0 -0 0.999994 562 0)" cx="2972" cy="1463" r="5081" fx="2972" fy="1463">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FEFEFE"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5B5B5B"/>
+  </radialGradient>
+  <radialGradient id="id43" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.998434 -0 -0 1.00002 9 0)" cx="5983" cy="1334" r="216" fx="5983" fy="1334">
+   <stop offset="0" style="stop-opacity:1; stop-color:#72799F"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:#4E577C"/>
+   <stop offset="0.180392" style="stop-opacity:1; stop-color:#3C476D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#07153C"/>
+  </radialGradient>
+  <radialGradient id="id44" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.54527 -2.2166 2.21702 1.54483 -13874 955)" cx="1857" cy="5801" r="74" fx="1857" fy="5801">
+   <stop offset="0" style="stop-opacity:1; stop-color:#886D52"/>
+   <stop offset="0.258824" style="stop-opacity:1; stop-color:#92795E"/>
+   <stop offset="0.921569" style="stop-opacity:1; stop-color:#55412C"/>
+   <stop offset="0.0352941" style="stop-opacity:1; stop-color:#8B7A67"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#8D877B"/>
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <polygon class="fil0" points="3280,1437 2639,1437 2695,1538 3224,1538 "/>
+   <path id="1" class="fil1" d="M2639 1436l640 0 0 2 -640 0 -1 0 1 -1zm55 102l-55 -101 1 -1 55 101 -1 1 -1 0zm530 0l-530 0 0 -2 530 0 1 1 -1 0zm56 -101l-55 101 -1 -1 55 -101 1 0 1 1z"/>
+  </g>
+  <g>
+   <polygon class="fil2" points="2653,207 3280,207 3280,1374 2653,1374 "/>
+   <path id="1" class="fil3" d="M3280 207l-627 0 0 0 627 0 1 0 -1 0zm-1 1167l0 -1167 2 0 0 1167 -1 0 -1 0zm-626 0l627 0 0 0 -627 0 -1 0 1 0zm1 -1167l0 1167 -2 0 0 -1167 1 0 1 0z"/>
+  </g>
+  <g>
+   <path class="fil1" d="M6311 6182l-5239 0 0 -2 5239 0 1 1 -1 1zm1 -758l0 757 -2 0 0 -757 1 -1 1 1zm-5240 -1l5239 0 0 2 -5239 0 -1 -1 1 -1zm-1 758l0 -757 2 0 0 757 -1 1 -1 -1z"/>
+  </g>
+  <g>
+   <polygon class="fil4" points="572,3824 670,3824 684,4988 572,4988 "/>
+   <path id="1" class="fil3" d="M670 3824l-98 0 0 -1 98 0 1 1 -1 1zm13 1164l-14 -1164 2 0 14 1164 -1 1 -1 -1zm-111 -1l112 0 0 1 -112 0 -1 -1 1 -1zm1 -1164l0 1164 -2 0 0 -1164 1 -1 1 1z"/>
+  </g>
+  <g>
+   <polygon class="fil5" points="3494,4988 3889,4988 3889,5424 3494,5424 "/>
+   <path id="1" class="fil6" d="M3889 4990l-395 0 0 -4 395 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 438l0 -437 4 0 0 437 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-397 -2l395 0 0 4 -395 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -438l0 437 -4 0 0 -437 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <rect class="fil7 str0" x="7273" y="1967" width="48" height="441"/>
+  <rect class="fil8 str1" x="7094" y="1633" width="184" height="1133"/>
+  <rect class="fil9 str2" x="7061" y="1508" width="33" height="1294"/>
+  <rect class="fil10 str3" x="4823" y="1503" width="2238" height="1299"/>
+  <rect class="fil11 str4" x="6344" y="2746" width="692" height="105"/>
+  <rect class="fil11 str5" x="6926" y="2424" width="69" height="322"/>
+  <rect class="fil12 str6" x="5459" y="1457" width="1005" height="1016"/>
+  <path class="fil13 str7" d="M6464 1620l245 0c27,0 48,22 48,48l0 396c0,27 -22,48 -48,48l-245 0 0 -493z"/>
+  <line class="fil13 str8" x1="6464" y1="1659" x2="6757" y2= "1659" />
+  <line class="fil13 str8" x1="6464" y1="1725" x2="6758" y2= "1725" />
+  <line class="fil13 str8" x1="6464" y1="1799" x2="6758" y2= "1799" />
+  <line class="fil13 str8" x1="6464" y1="1867" x2="6758" y2= "1867" />
+  <line class="fil13 str8" x1="6464" y1="1938" x2="6758" y2= "1938" />
+  <line class="fil13 str8" x1="6464" y1="2007" x2="6758" y2= "2007" />
+  <line class="fil13 str8" x1="6464" y1="2071" x2="6757" y2= "2071" />
+  <path class="fil13 str9" d="M6464 2230l245 0c27,0 48,22 48,48l0 85c0,27 -22,48 -48,48l-245 0 0 -181z"/>
+  <line class="fil13 str10" x1="6464" y1="2269" x2="6757" y2= "2269" />
+  <line class="fil13 str10" x1="6464" y1="2335" x2="6758" y2= "2335" />
+  <path class="fil14 str7" d="M6464 1620l245 0c27,0 48,22 48,48l0 396c0,27 -22,48 -48,48l-245 0 0 -493z"/>
+  <line class="fil13 str8" x1="6464" y1="1659" x2="6757" y2= "1659" />
+  <line class="fil13 str8" x1="6464" y1="1725" x2="6758" y2= "1725" />
+  <line class="fil13 str8" x1="6464" y1="1799" x2="6758" y2= "1799" />
+  <line class="fil13 str8" x1="6464" y1="1867" x2="6758" y2= "1867" />
+  <line class="fil13 str8" x1="6464" y1="1938" x2="6758" y2= "1938" />
+  <line class="fil13 str8" x1="6464" y1="2007" x2="6758" y2= "2007" />
+  <line class="fil13 str8" x1="6464" y1="2071" x2="6757" y2= "2071" />
+  <path class="fil14 str9" d="M6464 2230l245 0c27,0 48,22 48,48l0 85c0,27 -22,48 -48,48l-245 0 0 -181z"/>
+  <line class="fil13 str10" x1="6464" y1="2269" x2="6757" y2= "2269" />
+  <line class="fil13 str10" x1="6464" y1="2335" x2="6758" y2= "2335" />
+  <path class="fil13 str11" d="M5459 1620l-245 0c-27,0 -48,22 -48,48l0 396c0,27 22,48 48,48l245 0 0 -493z"/>
+  <line class="fil13 str12" x1="5459" y1="1659" x2="5166" y2= "1659" />
+  <line class="fil13 str12" x1="5459" y1="1725" x2="5165" y2= "1725" />
+  <line class="fil13 str12" x1="5459" y1="1799" x2="5165" y2= "1799" />
+  <line class="fil13 str12" x1="5459" y1="1867" x2="5165" y2= "1867" />
+  <line class="fil13 str12" x1="5459" y1="1938" x2="5165" y2= "1938" />
+  <line class="fil13 str12" x1="5459" y1="2007" x2="5165" y2= "2007" />
+  <line class="fil13 str12" x1="5459" y1="2071" x2="5166" y2= "2071" />
+  <path class="fil13 str13" d="M5459 2230l-245 0c-27,0 -48,22 -48,48l0 85c0,27 22,48 48,48l245 0 0 -181z"/>
+  <line class="fil13 str14" x1="5459" y1="2269" x2="5166" y2= "2269" />
+  <line class="fil13 str14" x1="5459" y1="2335" x2="5165" y2= "2335" />
+  <path class="fil14 str11" d="M5459 1620l-245 0c-27,0 -48,22 -48,48l0 396c0,27 22,48 48,48l245 0 0 -493z"/>
+  <line class="fil13 str12" x1="5459" y1="1659" x2="5166" y2= "1659" />
+  <line class="fil13 str12" x1="5459" y1="1725" x2="5165" y2= "1725" />
+  <line class="fil13 str12" x1="5459" y1="1799" x2="5165" y2= "1799" />
+  <line class="fil13 str12" x1="5459" y1="1867" x2="5165" y2= "1867" />
+  <line class="fil13 str12" x1="5459" y1="1938" x2="5165" y2= "1938" />
+  <line class="fil13 str12" x1="5459" y1="2007" x2="5165" y2= "2007" />
+  <line class="fil13 str12" x1="5459" y1="2071" x2="5166" y2= "2071" />
+  <path class="fil14 str13" d="M5459 2230l-245 0c-27,0 -48,22 -48,48l0 85c0,27 22,48 48,48l245 0 0 -181z"/>
+  <line class="fil13 str14" x1="5459" y1="2269" x2="5166" y2= "2269" />
+  <line class="fil13 str14" x1="5459" y1="2335" x2="5165" y2= "2335" />
+  <path class="fil14 str15" d="M5521 2473l712 0 0 62c0,27 -22,48 -48,48l-616 0c-27,0 -48,-22 -48,-48l0 -62z"/>
+  <line class="fil13 str8" x1="5521" y1="2489" x2="6233" y2= "2489" />
+  <line class="fil13 str8" x1="5521" y1="2520" x2="6233" y2= "2520" />
+  <line class="fil13 str8" x1="5526" y1="2556" x2="6228" y2= "2556" />
+  <circle class="fil15 str16" cx="6428" cy="2428" r="21"/>
+  <circle class="fil15 str17" cx="5502" cy="2428" r="21"/>
+  <rect class="fil16 str18" x="5892" y="1438" width="196" height="19"/>
+  <path class="fil17 str19" d="M5923 1438l121 0 0 -20c26,-19 43,-50 43,-85 0,-57 -47,-104 -104,-104 -57,0 -104,47 -104,104 0,35 17,66 43,85l0 20zm61 -53c29,0 52,-23 52,-52 0,-29 -23,-52 -52,-52 -29,0 -52,23 -52,52 0,29 23,52 52,52z"/>
+  <polygon class="fil18 str20" points="6250,1624 6251,1588 5628,1588 5628,1951 5809,1951 5809,1648 5771,1648 5771,1913 5737,1914 5738,1648 5701,1648 5701,1914 5665,1914 5665,1624 "/>
+  <path class="fil19 str21" d="M5890 1915l0 -34 144 0 0 -233 -179 0 0 305 177 0 0 -38 -142 0zm19 -184l71 0 0 59 -71 0 0 -59z"/>
+  <path class="fil20 str22" d="M6195 1947l-120 0 0 -299 181 0 0 375 -625 0 0 -45 564 0 0 -32zm-66 -220l70 0 0 152 -70 0 0 -152z"/>
+  <rect class="fil21 str23" x="4782" y="1500" width="41" height="1302"/>
+  <rect class="fil22 str24" x="4642" y="1625" width="140" height="1138"/>
+  <g>
+   <polygon class="fil23" points="4593,1970 4642,1970 4642,2419 4593,2419 "/>
+   <path id="1" class="fil24" d="M4642 1972l-48 0 0 -4 48 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 451l0 -449 4 0 0 449 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-50 -2l48 0 0 4 -48 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -451l0 449 -4 0 0 -449 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <polygon class="fil25" points="4439,1953 4593,1953 4593,2432 4439,2432 "/>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <line id="1" class="fil13 str25" x1="4528" y1="1426" x2="4104" y2= "2180" />
+    <line class="fil13 str25" x1="4543" y1="1455" x2="4120" y2= "2209" />
+    <line class="fil13 str25" x1="4558" y1="1484" x2="4135" y2= "2238" />
+    <line class="fil13 str25" x1="4896" y1="2260" x2="4486" y2= "1482" />
+    <line class="fil13 str25" x1="4574" y1="1512" x2="4150" y2= "2266" />
+    <line class="fil13 str25" x1="4880" y1="2288" x2="4470" y2= "1509" />
+    <line class="fil13 str25" x1="4589" y1="1541" x2="4165" y2= "2295" />
+    <line class="fil13 str25" x1="4865" y1="2316" x2="4454" y2= "1537" />
+    <line class="fil13 str25" x1="4604" y1="1570" x2="4180" y2= "2324" />
+    <line class="fil13 str25" x1="4849" y1="2343" x2="4439" y2= "1565" />
+    <line class="fil13 str25" x1="4619" y1="1598" x2="4195" y2= "2352" />
+    <line class="fil13 str25" x1="4833" y1="2371" x2="4423" y2= "1593" />
+    <line class="fil13 str25" x1="4634" y1="1627" x2="4210" y2= "2381" />
+    <line class="fil13 str25" x1="4818" y1="2399" x2="4407" y2= "1620" />
+    <line class="fil13 str25" x1="4649" y1="1656" x2="4225" y2= "2410" />
+    <line class="fil13 str25" x1="4802" y1="2427" x2="4392" y2= "1648" />
+    <line class="fil13 str25" x1="4664" y1="1684" x2="4240" y2= "2438" />
+    <line class="fil13 str25" x1="4787" y1="2455" x2="4376" y2= "1676" />
+    <line class="fil13 str25" x1="4679" y1="1713" x2="4256" y2= "2467" />
+    <line class="fil13 str25" x1="4771" y1="2482" x2="4361" y2= "1704" />
+    <line class="fil13 str25" x1="4694" y1="1742" x2="4271" y2= "2496" />
+    <line class="fil13 str25" x1="4755" y1="2510" x2="4345" y2= "1732" />
+    <line class="fil13 str25" x1="4710" y1="1771" x2="4286" y2= "2524" />
+    <line class="fil13 str25" x1="4740" y1="2538" x2="4329" y2= "1759" />
+    <line class="fil13 str25" x1="4725" y1="1799" x2="4301" y2= "2553" />
+    <line class="fil13 str25" x1="4724" y1="2566" x2="4314" y2= "1787" />
+    <line class="fil13 str25" x1="4740" y1="1828" x2="4316" y2= "2582" />
+    <line class="fil13 str25" x1="4709" y1="2593" x2="4298" y2= "1815" />
+    <line class="fil13 str25" x1="4755" y1="1857" x2="4331" y2= "2611" />
+    <line class="fil13 str25" x1="4693" y1="2621" x2="4283" y2= "1843" />
+    <line class="fil13 str25" x1="4770" y1="1885" x2="4346" y2= "2639" />
+    <line class="fil13 str25" x1="4677" y1="2649" x2="4267" y2= "1870" />
+    <line class="fil13 str25" x1="4785" y1="1914" x2="4361" y2= "2668" />
+    <line class="fil13 str25" x1="4662" y1="2677" x2="4251" y2= "1898" />
+    <line class="fil13 str25" x1="4800" y1="1943" x2="4377" y2= "2697" />
+    <line class="fil13 str25" x1="4646" y1="2705" x2="4236" y2= "1926" />
+    <line class="fil13 str25" x1="4815" y1="1971" x2="4392" y2= "2725" />
+    <line class="fil13 str25" x1="4630" y1="2732" x2="4220" y2= "1954" />
+    <line class="fil13 str25" x1="4831" y1="2000" x2="4407" y2= "2754" />
+    <line class="fil13 str25" x1="4615" y1="2760" x2="4205" y2= "1982" />
+    <line class="fil13 str25" x1="4846" y1="2029" x2="4422" y2= "2783" />
+    <line class="fil13 str25" x1="4599" y1="2788" x2="4189" y2= "2009" />
+    <line class="fil13 str25" x1="4861" y1="2057" x2="4437" y2= "2811" />
+    <line class="fil13 str25" x1="4584" y1="2816" x2="4173" y2= "2037" />
+    <line class="fil13 str25" x1="4876" y1="2086" x2="4452" y2= "2840" />
+    <line class="fil13 str25" x1="4568" y1="2843" x2="4158" y2= "2065" />
+    <line class="fil13 str25" x1="4891" y1="2115" x2="4467" y2= "2869" />
+    <line class="fil13 str25" x1="4552" y1="2871" x2="4142" y2= "2093" />
+    <line class="fil13 str25" x1="4906" y1="2143" x2="4482" y2= "2897" />
+    <line class="fil13 str25" x1="4537" y1="2899" x2="4126" y2= "2120" />
+    <line class="fil13 str25" x1="4921" y1="2172" x2="4498" y2= "2926" />
+    <line class="fil13 str25" x1="4521" y1="2927" x2="4111" y2= "2148" />
+    <line class="fil13 str25" x1="4936" y1="2201" x2="4513" y2= "2955" />
+    <line class="fil13 str25" x1="4506" y1="2955" x2="4095" y2= "2176" />
+   </g>
+  </g>
+  <g>
+   <path class="fil3" d="M4593 1955l-154 0 0 -4 154 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 480l0 -478 4 0 0 478 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-156 -2l154 0 0 4 -154 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -480l0 478 -4 0 0 -478 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <polygon class="fil26" points="3845,1953 4439,1953 4439,2432 3845,2432 "/>
+  <g style="clip-path:url(#id1)">
+   <g>
+    <line id="1" class="fil13 str25" x1="4138" y1="1426" x2="3538" y2= "2207" />
+    <line class="fil13 str25" x1="4161" y1="1454" x2="3560" y2= "2234" />
+    <line class="fil13 str25" x1="4184" y1="1481" x2="3583" y2= "2262" />
+    <line class="fil13 str25" x1="4701" y1="2236" x2="4077" y2= "1484" />
+    <line class="fil13 str25" x1="4207" y1="1509" x2="3606" y2= "2290" />
+    <line class="fil13 str25" x1="4679" y1="2265" x2="4055" y2= "1513" />
+    <line class="fil13 str25" x1="4230" y1="1537" x2="3629" y2= "2317" />
+    <line class="fil13 str25" x1="4656" y1="2293" x2="4033" y2= "1541" />
+    <line class="fil13 str25" x1="4253" y1="1565" x2="3652" y2= "2345" />
+    <line class="fil13 str25" x1="4634" y1="2322" x2="4011" y2= "1570" />
+    <line class="fil13 str25" x1="4276" y1="1592" x2="3675" y2= "2373" />
+    <line class="fil13 str25" x1="4612" y1="2351" x2="3989" y2= "1599" />
+    <line class="fil13 str25" x1="4299" y1="1620" x2="3698" y2= "2400" />
+    <line class="fil13 str25" x1="4590" y1="2380" x2="3966" y2= "1628" />
+    <line class="fil13 str25" x1="4322" y1="1648" x2="3721" y2= "2428" />
+    <line class="fil13 str25" x1="4568" y1="2408" x2="3944" y2= "1656" />
+    <line class="fil13 str25" x1="4345" y1="1675" x2="3744" y2= "2456" />
+    <line class="fil13 str25" x1="4546" y1="2437" x2="3922" y2= "1685" />
+    <line class="fil13 str25" x1="4368" y1="1703" x2="3767" y2= "2484" />
+    <line class="fil13 str25" x1="4524" y1="2466" x2="3900" y2= "1714" />
+    <line class="fil13 str25" x1="4391" y1="1731" x2="3790" y2= "2511" />
+    <line class="fil13 str25" x1="4501" y1="2495" x2="3878" y2= "1743" />
+    <line class="fil13 str25" x1="4414" y1="1758" x2="3813" y2= "2539" />
+    <line class="fil13 str25" x1="4479" y1="2523" x2="3856" y2= "1771" />
+    <line class="fil13 str25" x1="4437" y1="1786" x2="3836" y2= "2567" />
+    <line class="fil13 str25" x1="4457" y1="2552" x2="3834" y2= "1800" />
+    <line class="fil13 str25" x1="4460" y1="1814" x2="3859" y2= "2594" />
+    <line class="fil13 str25" x1="4435" y1="2581" x2="3812" y2= "1829" />
+    <line class="fil13 str25" x1="4483" y1="1842" x2="3882" y2= "2622" />
+    <line class="fil13 str25" x1="4413" y1="2610" x2="3789" y2= "1858" />
+    <line class="fil13 str25" x1="4506" y1="1869" x2="3905" y2= "2650" />
+    <line class="fil13 str25" x1="4391" y1="2638" x2="3767" y2= "1887" />
+    <line class="fil13 str25" x1="4529" y1="1897" x2="3928" y2= "2677" />
+    <line class="fil13 str25" x1="4369" y1="2667" x2="3745" y2= "1915" />
+    <line class="fil13 str25" x1="4552" y1="1925" x2="3951" y2= "2705" />
+    <line class="fil13 str25" x1="4347" y1="2696" x2="3723" y2= "1944" />
+    <line class="fil13 str25" x1="4575" y1="1952" x2="3974" y2= "2733" />
+    <line class="fil13 str25" x1="4324" y1="2725" x2="3701" y2= "1973" />
+    <line class="fil13 str25" x1="4598" y1="1980" x2="3997" y2= "2761" />
+    <line class="fil13 str25" x1="4302" y1="2753" x2="3679" y2= "2002" />
+    <line class="fil13 str25" x1="4621" y1="2008" x2="4020" y2= "2788" />
+    <line class="fil13 str25" x1="4280" y1="2782" x2="3657" y2= "2030" />
+    <line class="fil13 str25" x1="4644" y1="2035" x2="4043" y2= "2816" />
+    <line class="fil13 str25" x1="4258" y1="2811" x2="3635" y2= "2059" />
+    <line class="fil13 str25" x1="4666" y1="2063" x2="4066" y2= "2844" />
+    <line class="fil13 str25" x1="4236" y1="2840" x2="3612" y2= "2088" />
+    <line class="fil13 str25" x1="4689" y1="2091" x2="4089" y2= "2871" />
+    <line class="fil13 str25" x1="4214" y1="2868" x2="3590" y2= "2117" />
+    <line class="fil13 str25" x1="4712" y1="2119" x2="4112" y2= "2899" />
+    <line class="fil13 str25" x1="4192" y1="2897" x2="3568" y2= "2145" />
+    <line class="fil13 str25" x1="4735" y1="2146" x2="4135" y2= "2927" />
+    <line class="fil13 str25" x1="4170" y1="2926" x2="3546" y2= "2174" />
+    <line class="fil13 str25" x1="4758" y1="2174" x2="4158" y2= "2955" />
+    <line class="fil13 str25" x1="4147" y1="2955" x2="3524" y2= "2203" />
+   </g>
+  </g>
+  <g>
+   <path class="fil27" d="M4439 1955l-594 0 0 -4 594 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 480l0 -478 4 0 0 478 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-596 -2l594 0 0 4 -594 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -480l0 478 -4 0 0 -478 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <rect class="fil11 str26" x="4888" y="2744" width="459" height="101"/>
+  <rect class="fil11 str27" x="5267" y="2411" width="59" height="333"/>
+  <rect class="fil11 str28" x="4911" y="2411" width="61" height="333"/>
+  <g>
+   <polygon class="fil28" points="7067,2895 4845,2895 4845,2845 7067,2845 "/>
+   <path id="1" class="fil3" d="M4845 2893l2223 0 0 4 -2223 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -52l0 50 -4 0 0 -50 2 -2 2 2zm-4 0l0 -2 2 0 -2 2zm2225 2l-2223 0 0 -4 2223 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 52l0 -50 4 0 0 50 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil29" points="6589,2895 6614,2895 6614,3238 6589,3238 "/>
+   <path id="1" class="fil3" d="M6614 2897l-26 0 0 -4 26 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 345l0 -343 4 0 0 343 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-27 -2l26 0 0 4 -26 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -345l0 343 -4 0 0 -343 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil29" points="7025,2895 7053,2895 7053,3236 7025,3236 "/>
+   <path id="1" class="fil3" d="M7053 2897l-28 0 0 -4 28 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 343l0 -341 4 0 0 341 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-30 -2l28 0 0 4 -28 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -343l0 341 -4 0 0 -341 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil29" points="4859,2895 4936,2895 4936,3237 4859,3237 "/>
+   <path id="1" class="fil3" d="M4936 2897l-77 0 0 -4 77 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 344l0 -342 4 0 0 342 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-79 -2l77 0 0 4 -77 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -344l0 342 -4 0 0 -342 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil29" points="6572,2895 6649,2895 6649,3237 6572,3237 "/>
+   <path id="1" class="fil3" d="M6649 2897l-77 0 0 -4 77 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 344l0 -342 4 0 0 342 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-79 -2l77 0 0 4 -77 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -344l0 342 -4 0 0 -342 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil29" points="5278,2895 5314,2895 5314,3239 5278,3239 "/>
+   <path id="1" class="fil3" d="M5314 2897l-36 0 0 -4 36 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 347l0 -345 4 0 0 345 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-38 -2l36 0 0 4 -36 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -347l0 345 -4 0 0 -345 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <circle class="fil15 str29" cx="6428" cy="1501" r="21"/>
+  <circle class="fil15 str30" cx="5502" cy="1501" r="21"/>
+  <line class="fil13 str8" x1="6801" y1="1503" x2="6801" y2= "2195" />
+  <line class="fil13 str8" x1="5127" y1="1503" x2="5127" y2= "2195" />
+  <line class="fil13 str20" x1="5459" y1="2136" x2="6464" y2= "2136" />
+  <g>
+   <polygon class="fil30" points="572,3878 548,3878 548,3947 572,3947 "/>
+   <path id="1" class="fil6" d="M548 3876l24 0 0 4 -24 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 68l0 -68 4 0 0 68 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm24 0l-24 0 0 -4 24 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -68l0 68 -4 0 0 -68 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="572,4072 548,4072 548,4141 572,4141 "/>
+   <path id="1" class="fil6" d="M548 4070l24 0 0 4 -24 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 68l0 -68 4 0 0 68 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm24 0l-24 0 0 -4 24 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -68l0 68 -4 0 0 -68 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="572,4266 548,4266 548,4335 572,4335 "/>
+   <path id="1" class="fil6" d="M548 4264l24 0 0 4 -24 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 68l0 -68 4 0 0 68 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm24 0l-24 0 0 -4 24 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -68l0 68 -4 0 0 -68 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="572,4460 548,4460 548,4529 572,4529 "/>
+   <path id="1" class="fil6" d="M548 4458l24 0 0 4 -24 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 68l0 -68 4 0 0 68 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm24 0l-24 0 0 -4 24 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -68l0 68 -4 0 0 -68 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="572,4654 548,4654 548,4722 572,4722 "/>
+   <path id="1" class="fil6" d="M548 4652l24 0 0 4 -24 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 68l0 -68 4 0 0 68 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm24 0l-24 0 0 -4 24 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -68l0 68 -4 0 0 -68 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="572,4848 548,4848 548,4916 572,4916 "/>
+   <path id="1" class="fil6" d="M548 4846l24 0 0 4 -24 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 68l0 -68 4 0 0 68 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm24 0l-24 0 0 -4 24 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -68l0 68 -4 0 0 -68 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <path class="fil31" d="M658 3824l6348 0c507,0 459,434 453,545 0,160 51,619 -431,619 -2308,0 -4028,0 -6345,0l-26 -1164z"/>
+   <path id="1" class="fil32 str31" d="M658 3824l6348 0c507,0 459,434 453,545 0,160 51,619 -431,619 -2308,0 -4028,0 -6345,0l-26 -1164z"/>
+  </g>
+  <g>
+   <path class="fil33" d="M1072 5424l5239 0 0 757c-1813,0 -3418,0 -5239,0l0 -757z"/>
+   <path id="1" class="fil32 str31" d="M1072 5424l5239 0 0 757c-1813,0 -3418,0 -5239,0l0 -757z"/>
+  </g>
+  <g>
+   <polygon class="fil34" points="2160,3428 2228,3428 2228,4107 2160,4107 "/>
+   <path id="1" class="fil6" d="M2228 3430l-68 0 0 -4 68 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 681l0 -679 4 0 0 679 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-70 -2l68 0 0 4 -68 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -681l0 679 -4 0 0 -679 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil34" points="5012,3428 5080,3428 5080,4107 5012,4107 "/>
+   <path id="1" class="fil6" d="M5080 3430l-68 0 0 -4 68 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 681l0 -679 4 0 0 679 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-70 -2l68 0 0 4 -68 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -681l0 679 -4 0 0 -679 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil35" points="3519,1538 2400,1538 2400,2820 3519,2820 "/>
+   <path id="1" class="fil6" d="M2400 1536l1120 0 0 4 -1120 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 1282l0 -1282 4 0 0 1282 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm1120 0l-1120 0 0 -4 1120 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -1282l0 1282 -4 0 0 -1282 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil36" points="3932,1712 3519,1712 3519,2644 3932,2644 "/>
+   <path id="1" class="fil6" d="M3519 1710l412 0 0 4 -412 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 932l0 -932 4 0 0 932 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm412 0l-412 0 0 -4 412 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -932l0 932 -4 0 0 -932 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <rect class="fil37 str32" x="3698" y="1617" width="140" height="1088"/>
+  <polygon class="fil38 str33" points="2460,207 2460,77 3473,77 3473,207 "/>
+  <circle class="fil39 str34" cx="2972" cy="1463" r="609"/>
+  <circle class="fil40 str35" cx="2970" cy="1463" r="435"/>
+  <path class="fil41 str36" d="M2970 1999c-178,0 -335,-83 -432,-216l0 -644c97,-133 255,-216 433,-212 180,4 339,89 436,224l0 622c-97,136 -256,225 -436,225z"/>
+  <circle class="fil42 str37" cx="2970" cy="1463" r="284"/>
+  <g>
+   <polygon class="fil29" points="2230,2820 3713,2820 3713,2914 2230,2914 "/>
+   <path id="1" class="fil6" d="M3713 2821l-1482 0 0 -4 1482 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 97l0 -95 4 0 0 95 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-1484 -2l1482 0 0 4 -1482 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -97l0 95 -4 0 0 -95 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <rect class="fil29 str38" x="2230" y="2914" width="1484" height="388"/>
+  <g>
+   <polygon class="fil43" points="1584,2108 2253,2108 2253,2550 1584,2550 "/>
+   <path id="1" class="fil6" d="M2253 2110l-669 0 0 -4 669 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 444l0 -443 4 0 0 443 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-671 -2l669 0 0 4 -669 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -444l0 443 -4 0 0 -443 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil44" points="1339,2269 1584,2269 1584,2389 1339,2389 "/>
+   <path id="1" class="fil6" d="M1584 2271l-244 0 0 -4 244 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 122l0 -120 4 0 0 120 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-246 -2l244 0 0 4 -244 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -122l0 120 -4 0 0 -120 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil34" points="2253,1960 2400,1960 2400,2698 2253,2698 "/>
+   <path id="1" class="fil6" d="M2400 1962l-147 0 0 -4 147 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 739l0 -737 4 0 0 737 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-149 -2l147 0 0 4 -147 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -739l0 737 -4 0 0 -737 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil34" points="2253,1205 2400,1205 2400,1942 2253,1942 "/>
+   <path id="1" class="fil6" d="M2400 1207l-147 0 0 -4 147 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 739l0 -737 4 0 0 737 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-149 -2l147 0 0 4 -147 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -739l0 737 -4 0 0 -737 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil15" points="3519,2644 2400,2644 2400,2820 3519,2820 "/>
+   <path id="1" class="fil6" d="M2400 2642l1120 0 0 4 -1120 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 176l0 -176 4 0 0 176 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm1120 0l-1120 0 0 -4 1120 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -176l0 176 -4 0 0 -176 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <line class="fil13 str39" x1="3768" y1="1617" x2="3768" y2= "2705" />
+  <line class="fil13 str40" x1="2460" y1="142" x2="3473" y2= "142" />
+  <g>
+   <polygon class="fil45" points="1646,2028 1706,2028 1706,2631 1646,2631 "/>
+   <path id="1" class="fil6" d="M1706 2030l-60 0 0 -4 60 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 605l0 -603 4 0 0 603 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-62 -2l60 0 0 4 -60 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -605l0 603 -4 0 0 -603 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3698,2616 3668,2616 3668,2667 3698,2667 "/>
+   <path id="1" class="fil6" d="M3668 2614l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3390,207 3390,235 3437,235 3437,207 "/>
+   <path id="1" class="fil6" d="M3388 235l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3698,2496 3668,2496 3668,2547 3698,2547 "/>
+   <path id="1" class="fil6" d="M3668 2494l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3278,207 3278,235 3326,235 3326,207 "/>
+   <path id="1" class="fil6" d="M3276 235l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3698,2376 3668,2376 3668,2427 3698,2427 "/>
+   <path id="1" class="fil6" d="M3668 2374l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3166,207 3166,235 3214,235 3214,207 "/>
+   <path id="1" class="fil6" d="M3164 235l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3698,2256 3668,2256 3668,2307 3698,2307 "/>
+   <path id="1" class="fil6" d="M3668 2254l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3054,207 3054,235 3102,235 3102,207 "/>
+   <path id="1" class="fil6" d="M3053 235l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3698,2135 3668,2135 3668,2187 3698,2187 "/>
+   <path id="1" class="fil6" d="M3668 2133l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="2943,207 2943,235 2990,235 2990,207 "/>
+   <path id="1" class="fil6" d="M2941 235l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3698,2015 3668,2015 3668,2066 3698,2066 "/>
+   <path id="1" class="fil6" d="M3668 2013l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="2831,207 2831,235 2878,235 2878,207 "/>
+   <path id="1" class="fil6" d="M2829 235l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3698,1895 3668,1895 3668,1946 3698,1946 "/>
+   <path id="1" class="fil6" d="M3668 1893l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="2719,207 2719,235 2767,235 2767,207 "/>
+   <path id="1" class="fil6" d="M2717 235l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3698,1775 3668,1775 3668,1826 3698,1826 "/>
+   <path id="1" class="fil6" d="M3668 1773l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="2607,207 2607,235 2655,235 2655,207 "/>
+   <path id="1" class="fil6" d="M2606 235l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="1646,2113 1622,2113 1622,2155 1646,2155 "/>
+   <path id="1" class="fil6" d="M1622 2111l25 0 0 4 -25 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 42l0 -42 4 0 0 42 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm25 0l-25 0 0 -4 25 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -42l0 42 -4 0 0 -42 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3698,1655 3668,1655 3668,1706 3698,1706 "/>
+   <path id="1" class="fil6" d="M3668 1653l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="2496,207 2496,235 2543,235 2543,207 "/>
+   <path id="1" class="fil6" d="M2494 235l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="1646,2500 1622,2500 1622,2542 1646,2542 "/>
+   <path id="1" class="fil6" d="M1622 2498l25 0 0 4 -25 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 42l0 -42 4 0 0 42 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm25 0l-25 0 0 -4 25 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -42l0 42 -4 0 0 -42 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil46" points="1932,2922 1932,2897 1890,2897 1890,2922 "/>
+   <path id="1" class="fil6" d="M1934 2897l0 25 -4 0 0 -25 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-42 0l42 0 0 4 -42 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 25l0 -25 4 0 0 25 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm42 0l-42 0 0 -4 42 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3868,2616 3838,2616 3838,2667 3868,2667 "/>
+   <path id="1" class="fil6" d="M3838 2614l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3390,49 3390,77 3437,77 3437,49 "/>
+   <path id="1" class="fil6" d="M3388 77l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3868,2496 3838,2496 3838,2547 3868,2547 "/>
+   <path id="1" class="fil6" d="M3838 2494l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3278,49 3278,77 3326,77 3326,49 "/>
+   <path id="1" class="fil6" d="M3276 77l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3868,2376 3838,2376 3838,2427 3868,2427 "/>
+   <path id="1" class="fil6" d="M3838 2374l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3166,49 3166,77 3214,77 3214,49 "/>
+   <path id="1" class="fil6" d="M3164 77l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3868,2256 3838,2256 3838,2307 3868,2307 "/>
+   <path id="1" class="fil6" d="M3838 2254l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3054,49 3054,77 3102,77 3102,49 "/>
+   <path id="1" class="fil6" d="M3053 77l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3868,2135 3838,2135 3838,2187 3868,2187 "/>
+   <path id="1" class="fil6" d="M3838 2133l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="2943,49 2943,77 2990,77 2990,49 "/>
+   <path id="1" class="fil6" d="M2941 77l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3868,2015 3838,2015 3838,2066 3868,2066 "/>
+   <path id="1" class="fil6" d="M3838 2013l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="2831,49 2831,77 2878,77 2878,49 "/>
+   <path id="1" class="fil6" d="M2829 77l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3868,1895 3838,1895 3838,1946 3868,1946 "/>
+   <path id="1" class="fil6" d="M3838 1893l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="2719,49 2719,77 2767,77 2767,49 "/>
+   <path id="1" class="fil6" d="M2717 77l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3868,1775 3838,1775 3838,1826 3868,1826 "/>
+   <path id="1" class="fil6" d="M3838 1773l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="2607,49 2607,77 2655,77 2655,49 "/>
+   <path id="1" class="fil6" d="M2606 77l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="3868,1655 3838,1655 3838,1706 3868,1706 "/>
+   <path id="1" class="fil6" d="M3838 1653l30 0 0 4 -30 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 51l0 -51 4 0 0 51 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm30 0l-30 0 0 -4 30 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -51l0 51 -4 0 0 -51 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil30" points="2496,49 2496,77 2543,77 2543,49 "/>
+   <path id="1" class="fil6" d="M2494 77l0 -28 4 0 0 28 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm48 0l-48 0 0 -4 48 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -28l0 28 -4 0 0 -28 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-48 0l48 0 0 4 -48 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2z"/>
+  </g>
+  <path class="fil46 str41" d="M2970 1653c105,0 190,-85 190,-190 0,-105 -85,-190 -190,-190 -72,0 -134,40 -167,99l0 0 -129 0 0 179 128 0c32,60 95,101 168,101z"/>
+  <g>
+   <polygon class="fil29" points="5278,2895 5355,2895 5355,3237 5278,3237 "/>
+   <path id="1" class="fil3" d="M5355 2897l-77 0 0 -4 77 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 344l0 -342 4 0 0 342 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-79 -2l77 0 0 4 -77 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -344l0 342 -4 0 0 -342 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil29" points="6991,2895 7067,2895 7067,3237 6991,3237 "/>
+   <path id="1" class="fil3" d="M7067 2897l-77 0 0 -4 77 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 344l0 -342 4 0 0 342 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-79 -2l77 0 0 4 -77 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -344l0 342 -4 0 0 -342 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil46" points="1604,2922 1604,2897 1562,2897 1562,2922 "/>
+   <path id="1" class="fil6" d="M1606 2897l0 25 -4 0 0 -25 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-42 0l42 0 0 4 -42 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 25l0 -25 4 0 0 25 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm42 0l-42 0 0 -4 42 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil46" points="1932,3067 1932,3042 1890,3042 1890,3067 "/>
+   <path id="1" class="fil6" d="M1934 3042l0 25 -4 0 0 -25 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-42 0l42 0 0 4 -42 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 25l0 -25 4 0 0 25 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm42 0l-42 0 0 -4 42 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil46" points="1604,3067 1604,3042 1562,3042 1562,3067 "/>
+   <path id="1" class="fil6" d="M1606 3042l0 25 -4 0 0 -25 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2zm-42 0l42 0 0 4 -42 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 25l0 -25 4 0 0 25 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm42 0l-42 0 0 -4 42 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2z"/>
+  </g>
+  <rect class="fil47 str42" x="3324" y="2006" width="68" height="758"/>
+  <rect class="fil48 str43" x="3392" y="2006" width="68" height="758"/>
+  <g>
+   <polygon class="fil49" points="3324,2120 2400,2120 2400,2602 3324,2602 "/>
+   <path id="1" class="fil6" d="M2400 2118l925 0 0 4 -925 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 482l0 -482 4 0 0 482 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm925 0l-925 0 0 -4 925 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -482l0 482 -4 0 0 -482 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <polygon class="fil3" points="712,6298 654,3678 656,3678 714,6297 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="945,6297 1003,3678 1005,3678 947,6298 "/>
+  </g>
+  <g>
+   <polygon class="fil28" points="1004,3676 655,3678 713,6298 946,6298 "/>
+   <path id="1" class="fil3" d="M655 3677l349 -2 0 2 -349 2 -1 -1 1 -1zm57 2620l-58 -2619 2 0 58 2619 -1 1 -1 -1zm234 1l-233 0 0 -2 233 0 1 1 -1 1zm59 -2622l-58 2621 -2 0 58 -2621 1 -1 1 1z"/>
+  </g>
+  <g>
+   <polygon class="fil28" points="6767,3676 7116,3678 7058,6298 6825,6298 "/>
+   <path id="1" class="fil3" d="M7116 3679l-349 -2 0 -2 349 2 1 1 -1 1zm-59 2619l58 -2619 2 0 -58 2619 -1 1 -1 -1zm-232 -1l233 0 0 2 -233 0 -1 -1 1 -1zm-57 -2621l58 2621 -2 0 -58 -2621 1 -1 1 1z"/>
+  </g>
+  <g>
+   <polygon class="fil28" points="957,5803 6814,5803 6806,5424 965,5424 "/>
+   <path id="1" class="fil3" d="M6814 5804l-5857 0 0 -2 5857 0 1 1 -1 1zm-8 -379l8 378 -2 0 -8 -378 1 -1 1 1zm-5841 -1l5840 0 0 2 -5840 0 -1 -1 1 -1zm-9 379l8 -378 2 0 -8 378 -1 1 -1 -1z"/>
+  </g>
+  <g>
+   <polygon class="fil28" points="656,3239 7115,3239 7115,3770 656,3770 "/>
+   <path id="1" class="fil3" d="M7115 3240l-6460 0 0 -2 6460 0 1 1 -1 1zm-1 530l0 -530 2 0 0 530 -1 1 -1 -1zm-6459 -1l6460 0 0 2 -6460 0 -1 -1 1 -1zm1 -530l0 530 -2 0 0 -530 1 -1 1 1z"/>
+  </g>
+  <g>
+   <polygon class="fil34" points="1477,4745 1545,4745 1545,5424 1477,5424 "/>
+   <path id="1" class="fil6" d="M1545 4747l-68 0 0 -4 68 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 681l0 -679 4 0 0 679 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-70 -2l68 0 0 4 -68 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -681l0 679 -4 0 0 -679 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil34" points="5755,4745 5824,4745 5824,5424 5755,5424 "/>
+   <path id="1" class="fil6" d="M5824 4747l-68 0 0 -4 68 0 2 2 -2 2zm0 -4l2 0 0 2 -2 -2zm-2 681l0 -679 4 0 0 679 -2 2 -2 -2zm4 0l0 2 -2 0 2 -2zm-70 -2l68 0 0 4 -68 0 -2 -2 2 -2zm0 4l-2 0 0 -2 2 2zm2 -681l0 679 -4 0 0 -679 2 -2 2 2zm-4 0l0 -2 2 0 -2 2z"/>
+  </g>
+  <path class="fil15 str44" d="M1277 3239l-425 0c37,-65 116,-223 160,-270 45,-48 88,-43 130,7 35,42 106,205 135,263zm-203 -160c24,0 44,-20 44,-44 0,-24 -20,-44 -44,-44 -24,0 -44,20 -44,44 0,24 20,44 44,44z"/>
+  <rect class="fil15 str45" transform="matrix(0.200801 -0.0784743 0.0784743 0.200801 6553.99 3264.94)" width="185" height="2461"/>
+  <g>
+   <path class="fil50" d="M2674 1372l-939 0c-42,0 -75,34 -75,75l0 90 1014 0 0 -165z"/>
+   <path id="1" class="fil6" d="M1735 1370l939 0 0 4 -939 0 0 0 0 -4zm-74 77l-4 0 0 0 0 -4 0 -4 0 -4 1 -4 1 -4 1 -4 1 -4 1 -4 2 -3 2 -3 2 -3 2 -3 2 -3 2 -3 2 -3 3 -3 3 -3 3 -2 3 -2 3 -2 3 -2 3 -2 3 -2 3 -2 4 -1 4 -1 4 -1 4 -1 4 -1 4 -1 4 0 4 0 0 4 -4 0 -4 0 -4 0 -4 1 -4 1 -3 1 -3 1 -3 1 -3 1 -3 2 -3 2 -3 2 -3 2 -3 2 -3 2 -3 2 -2 3 -2 3 -2 3 -2 3 -2 3 -2 3 -2 3 -1 3 -1 3 -1 3 -1 3 -1 4 -1 4 0 4 0 4 0 4 0 0zm-4 90l0 -90 4 0 0 90 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm1014 0l-1014 0 0 -4 1014 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2zm0 -165l0 165 -4 0 0 -165 2 -2 2 2zm-2 -2l2 0 0 2 -2 -2z"/>
+  </g>
+  <g>
+   <path class="fil51" d="M1825 5795l0 -4347c0,-42 -34,-75 -75,-75l-14 0c-42,0 -75,34 -75,75l0 4347 165 0z"/>
+   <path id="1" class="fil6" d="M1826 1448l0 4347 -4 0 0 -4347 0 0 4 0zm-77 -74l0 -4 0 0 4 0 4 0 4 0 4 1 4 1 4 1 4 1 4 1 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 3 3 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 1 4 1 4 1 4 1 4 1 4 0 4 0 4 0 4 -4 0 0 -4 0 -4 0 -4 -1 -4 -1 -4 -1 -3 -1 -3 -1 -3 -1 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -1 -3 -1 -3 -1 -3 -1 -4 -1 -4 -1 -4 0 -4 0 -4 0 0 0zm-14 -4l14 0 0 4 -14 0 0 0 0 -4zm-74 77l-4 0 0 0 0 -4 0 -4 0 -4 1 -4 1 -4 1 -4 1 -4 1 -4 2 -3 2 -3 2 -3 2 -3 2 -3 2 -3 2 -3 3 -3 3 -3 3 -2 3 -2 3 -2 3 -2 3 -2 3 -2 3 -2 4 -1 4 -1 4 -1 4 -1 4 -1 4 0 4 0 4 0 0 4 -4 0 -4 0 -4 0 -4 1 -4 1 -3 1 -3 1 -3 1 -3 1 -3 2 -3 2 -3 2 -3 2 -3 2 -3 2 -3 2 -2 3 -2 3 -2 3 -2 3 -2 3 -2 3 -2 3 -1 3 -1 3 -1 3 -1 3 -1 4 -1 4 0 4 0 4 0 4 0 0zm-4 4347l0 -4347 4 0 0 4347 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2zm165 0l-165 0 0 -4 165 0 2 2 -2 2zm2 -2l0 2 -2 0 2 -2z"/>
+  </g>
+  <g>
+   <path class="fil52" d="M1865 5994l3667 0c42,0 75,-34 75,-75l0 -14c0,-42 -34,-75 -75,-75l-3667 0 0 165z"/>
+   <path id="1" class="fil6" d="M5531 5996l-3667 0 0 -4 3667 0 0 0 0 4zm74 -77l4 0 0 0 0 4 0 4 0 4 -1 4 -1 4 -1 4 -1 4 -1 4 -2 3 -2 3 -2 3 -2 3 -2 3 -2 3 -2 3 -3 3 -3 3 -3 2 -3 2 -3 2 -3 2 -3 2 -3 2 -3 2 -4 1 -4 1 -4 1 -4 1 -4 1 -4 0 -4 0 -4 0 0 -4 4 0 4 0 4 0 4 -1 4 -1 3 -1 3 -1 3 -1 3 -1 3 -2 3 -2 3 -2 3 -2 3 -2 3 -2 3 -2 2 -3 2 -3 2 -3 2 -3 2 -3 2 -3 2 -3 1 -3 1 -3 1 -3 1 -3 1 -4 1 -4 0 -4 0 -4 0 -4 0 0zm4 -14l0 14 -4 0 0 -14 0 0 4 0zm-77 -74l0 -4 0 0 4 0 4 0 4 0 4 1 4 1 4 1 4 1 4 1 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 3 3 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 1 4 1 4 1 4 1 4 1 4 0 4 0 4 0 4 -4 0 0 -4 0 -4 0 -4 -1 -4 -1 -4 -1 -3 -1 -3 -1 -3 -1 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -2 -3 -1 -3 -1 -3 -1 -3 -1 -4 -1 -4 -1 -4 0 -4 0 -4 0 0 0zm-3667 -4l3667 0 0 4 -3667 0 -2 -2 2 -2zm-2 2l0 -2 2 0 -2 2zm0 165l0 -165 4 0 0 165 -2 2 -2 -2zm2 2l-2 0 0 -2 2 2z"/>
+  </g>
+  <path class="fil53 str46" d="M1865 5994l0 -166c-23,-1 -35,-11 -37,-33l-162 0c-3,135 63,201 199,199z"/>
+  <polygon class="fil54 str47" points="1871,2922 1613,2922 1659,2862 1825,2862 "/>
+  <polygon class="fil55 str48" points="1876,3042 1618,3042 1664,3102 1829,3102 "/>
+  <rect class="fil56 str49" x="1551" y="2982" width="391" height="60"/>
+  <rect class="fil57 str50" x="1551" y="2922" width="391" height="60"/>
+  <path class="fil58 str51" d="M3785 3078l4205 0c13,-9 28,-9 45,0l261 0c63,5 65,94 0,99 -87,0 -174,0 -261,0 -13,9 -27,11 -42,0l-4208 0 0 -99z"/>
+  <path class="fil59 str52" d="M3442 3078l0 -314 -99 0 0 314 0 24c0,42 34,75 75,75l367 0 0 -99 -344 0z"/>
+  <g>
+   <path class="fil3" d="M8060 3155l1 1 0 0 -1 2 -1 2 -1 2 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 0 -2 2 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -2 1 -2 0 0zm0 -56l1 -1 0 0 1 2 1 2 1 2 1 2 1 2 1 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 -1 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 0 0zm-39 -28l0 -2 2 0 2 0 2 0 2 0 2 0 2 0 2 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 2 1 2 1 2 -1 1 -1 -2 -1 -2 -1 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -2 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M8060 3155l1 1 0 0 -1 2 -1 2 -1 2 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 0 -2 2 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -2 1 -2 0 0zm0 -56l1 -1 0 0 1 2 1 2 1 2 1 2 1 2 1 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 -1 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 0 0zm-39 -28l0 -2 2 0 2 0 2 0 2 0 2 0 2 0 2 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 2 1 2 1 2 -1 1 -1 -2 -1 -2 -1 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -2 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M8057 3156l1 1 0 0 -1 2 -1 2 -1 2 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 0 -2 2 0 2 0 2 0 1 0 1 0 1 0 1 0 1 0 1 0 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -2 1 -2 0 0zm0 -56l1 -1 0 0 1 2 1 2 1 2 1 2 1 2 1 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 -1 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 0 0zm-39 -28l0 -2 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 2 1 2 1 2 -1 1 -1 -2 -1 -2 -1 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -2 0 -2 0 -2 0z"/>
+  </g>
+  <g>
+   <polygon class="fil3" points="8018,3183 8021,3183 8021,3185 8018,3185 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="8018,3070 8021,3070 8021,3072 8018,3072 "/>
+  </g>
+  <g>
+   <path class="fil3" d="M8057 3156l1 1 0 0 -1 2 -1 2 -1 2 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 0 -2 2 0 2 0 2 0 1 0 1 0 1 0 1 0 1 0 1 0 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -2 1 -2 0 0zm0 -56l1 -1 0 0 1 2 1 2 1 2 1 2 1 2 1 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 -1 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 0 0zm-39 -28l0 -2 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 2 1 2 1 2 -1 1 -1 -2 -1 -2 -1 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -2 0 -2 0 -2 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M8056 3155l1 1 0 0 -1 2 -1 2 -1 2 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 0 -1 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 0 -2 2 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -2 1 -2 0 0zm0 -56l1 -1 0 0 1 2 1 2 1 2 1 2 1 2 1 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 -1 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 0 0zm-39 -28l0 -2 2 0 2 0 2 0 2 0 2 0 2 0 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 2 1 2 1 2 -1 1 -1 -2 -1 -2 -1 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -2 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M8056 3155l1 1 0 0 -1 2 -1 2 -1 2 -1 2 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 0 -1 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 0 -2 2 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -2 1 -2 1 -2 0 0zm0 -56l1 -1 0 0 1 2 1 2 1 2 1 2 1 2 1 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 -1 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 0 0zm-39 -28l0 -2 2 0 2 0 2 0 2 0 2 0 2 0 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 2 1 2 1 2 -1 1 -1 -2 -1 -2 -1 -2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -2 0z"/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7977,3161 7976,3161 7976,3161 7975,3160 7975,3159 7975,3159 7974,3158 7974,3157 7974,3157 7973,3156 7973,3155 7973,3155 7972,3154 7972,3153 7972,3152 7971,3152 7971,3151 7971,3150 7971,3149 7970,3149 7970,3148 7970,3147 7970,3146 7969,3146 7969,3145 7969,3144 7969,3143 7969,3143 7969,3142 7968,3141 7968,3140 7968,3139 7968,3139 7968,3138 7969,3138 7970,3138 7970,3139 7970,3140 7970,3141 7970,3142 7970,3142 7970,3143 7971,3144 7971,3145 7971,3145 7971,3146 7971,3147 7972,3148 7972,3148 7972,3149 7972,3150 7973,3150 7973,3151 7973,3152 7973,3153 7974,3153 7974,3154 7974,3155 7975,3155 7975,3156 7975,3157 7976,3157 7976,3158 7976,3159 7977,3159 7977,3160 "/>
+  </g>
+  <g>
+   <path class="fil3" d="M8046 3166l1 1 0 0 -2 2 -2 2 -2 2 -2 2 -2 2 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -2 -2 -2 -2 -2 1 -1 2 2 2 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -2 2 -2 2 -2 2 -2 0 0zm0 -77l1 -1 0 0 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 3 1 3 1 3 1 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 -1 3 -1 3 -1 3 -1 3 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -2 2 -1 -1 2 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -3 1 -3 0 -3 0 -3 0 -3 0 -3 0 -3 0 -3 0 -3 0 -3 0 -3 0 -3 -1 -3 -1 -3 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -2 -2 0 0zm-62 -4l-1 -1 2 -2 2 -2 2 -2 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 2 2 2 2 2 2 2 2 2 -1 1 -2 -2 -2 -2 -2 -2 -2 -2 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 2 -2 2 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7969,3118 7968,3117 7968,3117 7968,3116 7968,3115 7968,3114 7968,3113 7969,3113 7969,3112 7969,3111 7969,3110 7969,3110 7970,3109 7970,3108 7970,3107 7970,3107 7971,3106 7971,3105 7971,3104 7971,3104 7972,3103 7972,3102 7972,3101 7973,3101 7973,3100 7973,3099 7974,3098 7974,3098 7974,3097 7975,3096 7975,3096 7975,3095 7976,3094 7976,3094 7977,3095 7977,3095 7977,3096 7976,3097 7976,3097 7976,3098 7975,3099 7975,3099 7975,3100 7974,3101 7974,3101 7974,3102 7973,3103 7973,3103 7973,3104 7973,3105 7972,3106 7972,3106 7972,3107 7972,3108 7971,3108 7971,3109 7971,3110 7971,3111 7971,3112 7970,3112 7970,3113 7970,3114 7970,3115 7970,3115 7970,3116 7970,3117 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="8014,3183 8017,3183 8017,3185 8014,3185 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="8014,3070 8017,3070 8017,3072 8014,3072 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7977,3161 7976,3161 7976,3161 7975,3160 7975,3159 7975,3159 7974,3158 7974,3157 7974,3157 7973,3156 7973,3155 7973,3155 7972,3154 7972,3153 7972,3152 7971,3152 7971,3151 7971,3150 7971,3149 7970,3149 7970,3148 7970,3147 7970,3146 7969,3146 7969,3145 7969,3144 7969,3143 7969,3143 7969,3142 7968,3141 7968,3140 7968,3139 7968,3139 7968,3138 7969,3138 7970,3138 7970,3139 7970,3140 7970,3141 7970,3142 7970,3142 7970,3143 7971,3144 7971,3145 7971,3145 7971,3146 7971,3147 7972,3148 7972,3148 7972,3149 7972,3150 7973,3150 7973,3151 7973,3152 7973,3153 7974,3153 7974,3154 7974,3155 7975,3155 7975,3156 7975,3157 7976,3157 7976,3158 7976,3159 7977,3159 7977,3160 "/>
+  </g>
+  <g>
+   <path class="fil3" d="M8046 3166l1 1 0 0 -2 2 -2 2 -2 2 -2 2 -2 2 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -2 -2 -2 -2 -2 1 -1 2 2 2 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -2 2 -2 2 -2 2 -2 0 0zm0 -77l1 -1 0 0 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 3 1 3 1 3 1 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 -1 3 -1 3 -1 3 -1 3 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -2 2 -1 -1 2 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -3 1 -3 0 -3 0 -3 0 -3 0 -3 0 -3 0 -3 0 -3 0 -3 0 -3 0 -3 -1 -3 -1 -3 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -2 -2 0 0zm-62 -4l-1 -1 2 -2 2 -2 2 -2 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 2 2 2 2 2 2 2 2 2 -1 1 -2 -2 -2 -2 -2 -2 -2 -2 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 0 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 2 -2 2 -2 2z"/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7969,3118 7968,3117 7968,3117 7968,3116 7968,3115 7968,3114 7968,3113 7969,3113 7969,3112 7969,3111 7969,3110 7969,3110 7970,3109 7970,3108 7970,3107 7970,3107 7971,3106 7971,3105 7971,3104 7971,3104 7972,3103 7972,3102 7972,3101 7973,3101 7973,3100 7973,3099 7974,3098 7974,3098 7974,3097 7975,3096 7975,3096 7975,3095 7976,3094 7976,3094 7977,3095 7977,3095 7977,3096 7976,3097 7976,3097 7976,3098 7975,3099 7975,3099 7975,3100 7974,3101 7974,3101 7974,3102 7973,3103 7973,3103 7973,3104 7973,3105 7972,3106 7972,3106 7972,3107 7972,3108 7971,3108 7971,3109 7971,3110 7971,3111 7971,3112 7970,3112 7970,3113 7970,3114 7970,3115 7970,3115 7970,3116 7970,3117 "/>
+  </g>
+  <g>
+   <path class="fil3" d="M8022 3122l-1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 11l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-8 6l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7945 3149l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 2 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 1 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 1 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l2 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0zm0 0l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 1 0 0 0 0 0 0 0 0 0 0 -1 0 1 0 0 0 0 0 0 0 -1 0 1 0 0 0 0 -1 0 1 -1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 -1 0 0 1 0 -1 0 0 1 0 -1 0 0 0 0 0 0 0 1 0 -1 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 1 -1 0 1 -1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 -1 -1 1 0 0 1 -1 0 1 -1 0 0 0 0 0 1 -1 0 1 -1 0 0 0 -1 -1 0 0 -1 0 0 1 1 -1 0 0 0 0 -1 0 0 1 1 -1 0 0 -1 1 0 -1 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 -1 0 0 1 1 -1 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7946 3149l0 -2 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0zm-1 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7945,3147 7962,3136 7963,3137 7946,3149 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7941,3142 7958,3130 7959,3131 7942,3143 "/>
+  </g>
+  <g>
+   <path class="fil3" d="M8022 3122l-1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 11l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-8 6l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7974 3122l-1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 11l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7974 3134l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 2 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 1 0 0 0 0 0 0 -1 -1 0 0 1 1 0 0 0 0 0 0 -1 -1 0 0 0 0 0 1 1 0 -1 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 1 1 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 1 0 0 1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 -1 0 1 0 0 1 0 0 0 0 -1 -1 0 0 0 0 0 0 1 1 0 0 -1 -1 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7977 3130l1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 1l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 1l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 1l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7966 3139l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-8 -6l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7958 3122l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm8 -6l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7967 3117l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm1 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm1 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm1 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm1 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm1 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 1 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0zm0 1l2 0 0 0 0 0 0 0 -1 1 0 0 1 0 0 -1 0 0 0 0 0 1 -1 0 1 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 -1 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 -1 -1 0 0 1 0 0 0 0 0 -1 1 0 0 0 -1 1 0 0 0 0 0 0zm0 0l1 -1 0 0 0 0 0 0 0 1 0 -1 -1 0 1 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 1 1 -1 0 0 -1 0 1 0 0 0 0 0 0zm0 0l1 -1 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 0 0 0 0 -1 0 1 0 0 1 -1 -1 1 0 0 1 0 -1 0 0 0 0 -1 1 0 0 0 0 0 -1 0 1 1 0 -1 -1 0 1 1 0 -1 0 0 0 0 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 -1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 -1 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <polygon class="fil3" points="8006,3137 8014,3137 8014,3139 8006,3139 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7989,3137 7995,3137 7995,3139 7989,3139 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7966,3137 7977,3137 7977,3139 7966,3139 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="8006,3117 8014,3117 8014,3118 8006,3118 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7970,3117 7995,3117 7995,3118 7970,3118 "/>
+  </g>
+  <g>
+   <path class="fil3" d="M7974 3122l-1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 11l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7958 3122l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm8 -6l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7966 3139l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-8 -6l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7965 3093l1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 2 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 -1 0 0 0 0 0 0 -1 -1 0 0 1 0 0 1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 -1 -1 1 0 0 1 0 -1 0 0 0 0 0 0 0 1 0 0 0 0 -1 -1 0 0 1 0 0 1 0 0 -1 1 0 0 0 1 1 0 0 0 -1 -1 0 0 0 0 0 1 0 0 0 0 0 0 0 -1 0 1 1 0 -1 -1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 1 1 0 0 0 -1 -1 0 0 0 0 0 0zm0 0l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 1 0 0 1 0 0 0 0 0 0 -1 -1 0 0 1 0 0 1 0 0 -1 1 0 0 0 1 1 0 0 0 -1 -1 0 0 0 0 0 0 0 1 1 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l2 1 0 0 0 0 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 0 0 0zm0 0l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 -2 -1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 1 0 0 0 0 0 0 -1 0 0 0 1 -1 0 1 -1 0 0 0 1 0 0 -1 -1 1 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 -1 -1 1 0 0 1 -1 0 1 -1 0 1 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 1 0 -1 0 0 1 1 -1 0 0 -1 1 0 -1 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 1 0 -1 1 0 0 0 -1 0 0 1 1 -1 0 0 -1 0 0 0 0 0 0 0zm0 0l1 2 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 -1 -1 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0zm0 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm1 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm1 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm1 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 2 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 -2 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0zm0 0l-1 2 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 -2 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0zm1 0l-1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm1 0l-1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 1 -2 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0zm0 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7968 3093l-1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 1 2 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0zm-1 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7945 3149l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 2 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-1 0l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 1 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 1 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l2 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0zm0 0l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -1l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 1 0 0 0 0 0 0 0 0 0 0 -1 0 1 0 0 0 0 0 0 0 -1 0 1 0 0 0 0 -1 0 1 -1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 -1 0 0 1 0 -1 0 0 1 0 -1 0 0 0 0 0 0 0 1 0 -1 0 0 0 0 0 0 0 0 0 0 0zm0 0l1 1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 1 -1 0 1 -1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 -1 -1 1 0 0 1 -1 0 1 -1 0 0 0 0 0 1 -1 0 1 -1 0 0 0 -1 -1 0 0 -1 0 0 1 1 -1 0 0 0 0 -1 0 0 1 1 -1 0 0 -1 1 0 -1 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 -1 0 0 1 1 -1 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7946 3149l0 -2 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 1 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0zm-1 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7993 3145l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-2 -1 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 2 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 0zm0 0l-2 -1 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 2 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0zm0 1l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 1l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 1l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 0 0 0 0 1 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 1 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 1 0 0 0 0 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 -1 0 0 0 1 0 0 0 0 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 0 1 1 0 0 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 0 0 0 0 1 0 0 0 -1 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 0 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 0 0 0 0 1 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 1 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 1 0 0 0 0 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 0 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 0 0 1 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7957 3084l-1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-11 6l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-9 10l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-5 13l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-2 15l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm2 14l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm6 13l-1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm9 10l-1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm11 6l-1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm12 1l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm11 -3l1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm10 -7l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm8 -11l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm5 -13l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm1 -15l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-3 -14l2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-7 -13l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-10 -9l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-11 -5l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-8 -1l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7957 3096l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-7 6l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-5 9l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-3 10l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 11l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm2 9l-2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7952 3155l-1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm7 5l-1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm8 2l0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm9 -2l1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm8 -5l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm6 -8l1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7995 3133l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 -11l2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-3 -10l2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-5 -9l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-7 -6l1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-8 -3l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm-2 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7993 3145l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-2 -1 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 2 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 0zm0 0l-2 -1 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 2 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 -1 0 0 0 1 0 0 0 0 0 0zm0 1l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 1l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 1l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 0 0 0 0 1 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 1 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 1 0 0 0 0 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 -1 0 0 0 1 0 0 0 0 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 0 1 1 0 0 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 0 0 0 0 1 0 0 0 -1 0 1 0 0 0 -1 0 0 0 1 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 1 0 0 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 0 0 -1 0 0 0 1 0 -1 0 0 0 1 0 -1 0 0 0 1 0 0 0 0 0 1 0 -1 0 0 0 1 0 0 0 -1 0 0 0 0 1 1 0 0 0 0 0 -1 0 0 0 1 0 0 0 -1 0 1 0 0 0 0 0 1 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 0 0 0 0 -1 0 1 0 0 0 -1 0 1 0 0 0 -1 0 0 0 1 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7974 3134l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 2 -1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 1 0 0 0 0 0 0 -1 -1 0 0 1 1 0 0 0 0 0 0 -1 -1 0 0 0 0 0 1 1 0 -1 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 1 1 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 -1 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 1 0 0 1 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 -1 0 1 0 0 1 0 0 0 0 -1 -1 0 0 0 0 0 0 1 1 0 0 -1 -1 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M7977 3130l1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l0 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 0l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 1l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 1l-1 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0zm0 1l-2 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0z"/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7993,3142 7977,3130 7978,3129 7994,3141 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="7990,3149 7973,3136 7974,3135 7991,3147 "/>
+  </g>
+  <g>
+   <path class="fil3" d="M8096 3150l1 1 0 0 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 0 -2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 0 0zm0 -46l1 -1 0 0 1 1 1 1 1 1 1 1 0 1 0 1 0 1 0 1 0 1 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 1 0 1 0 1 0 1 0 1 -1 1 -1 1 -1 1 -1 1 -1 -1 1 -1 1 -1 1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 -1 -1 -1 -1 -1 -1 0 0zm-32 -23l0 -2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 -1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0z"/>
+  </g>
+  <g>
+   <polygon class="fil3" points="8047,3173 8064,3173 8064,3175 8047,3175 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="8047,3080 8064,3080 8064,3082 8047,3082 "/>
+  </g>
+  <g>
+   <path class="fil3" d="M8096 3150l1 1 0 0 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 0 -2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 1 -1 0 0zm0 -46l1 -1 0 0 1 1 1 1 1 1 1 1 0 1 0 1 0 1 0 1 0 1 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 2 0 1 0 1 0 1 0 1 0 1 -1 1 -1 1 -1 1 -1 1 -1 -1 1 -1 1 -1 1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 -1 -1 -1 -1 -1 -1 0 0zm-32 -23l0 -2 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 -1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0z"/>
+  </g>
+  <g>
+   <path class="fil3" d="M8296 3079l0 -2 0 0 3 0 3 0 3 0 2 0 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 0 2 0 3 0 3 0 3 -2 0 0 -3 0 -2 0 -2 0 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 0 -2 0 -2 0 -3 0 0 0zm-49 49l-2 0 0 0 0 -3 0 -3 0 -3 0 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 2 -2 2 -2 2 -2 2 -2 2 -2 2 -2 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 0 3 0 3 0 3 0 0 2 -3 0 -2 0 -2 0 -2 0 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 2 -2 2 -2 2 -2 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 0 2 0 2 0 2 0 3 0 0zm49 49l0 2 0 0 -3 0 -3 0 -3 0 -2 0 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 -1 -2 0 -2 0 -3 0 -3 0 -3 2 0 0 3 0 2 0 2 0 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 2 2 2 2 2 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 0 2 0 2 0 3 0 0 0zm49 -49l2 0 0 0 0 3 0 3 0 3 0 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -2 2 -2 2 -2 2 -2 2 -2 2 -2 2 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 0 -3 0 -3 0 -3 0 0 -2 3 0 2 0 2 0 2 0 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -1 2 -2 2 -2 2 -2 2 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 1 -2 0 -2 0 -2 0 -2 0 -3 0 0z"/>
+  </g>
+  <g>
+   <polygon class="fil3" points="8043,3176 8296,3176 8296,3178 8043,3178 "/>
+  </g>
+  <g>
+   <polygon class="fil3" points="8043,3077 8296,3077 8296,3079 8043,3079 "/>
+  </g>
+  <g>
+   <path class="fil3" d="M3785 3077l4180 0 0 2 -4180 0 -1 -1 1 -1zm-1 100l0 -99 2 0 0 99 -1 1 -1 -1zm4208 1l-4207 0 0 -2 4207 0 0 2z"/>
+  </g>
+  <rect class="fil34 str53" x="2451" y="2345" width="486" height="474"/>
+  <circle class="fil13 str54" cx="2880" cy="2397" r="20"/>
+  <circle class="fil13 str55" cx="2693" cy="2582" r="20"/>
+  <circle class="fil60 str56" cx="2880" cy="2397" r="36"/>
+  <circle class="fil60 str57" cx="2693" cy="2582" r="36"/>
+  <circle class="fil15 str54" cx="2880" cy="2397" r="20"/>
+  <circle class="fil15 str55" cx="2693" cy="2582" r="20"/>
+  <circle class="fil13 str54" cx="2880" cy="2397" r="20"/>
+  <circle class="fil13 str55" cx="2693" cy="2582" r="20"/>
+  <circle class="fil60 str58" cx="2883" cy="2767" r="36"/>
+  <circle class="fil15 str59" cx="2883" cy="2767" r="20"/>
+  <circle class="fil13 str60" cx="2508" cy="2397" r="20"/>
+  <circle class="fil60 str61" cx="2508" cy="2397" r="36"/>
+  <circle class="fil15 str60" cx="2508" cy="2397" r="20"/>
+  <circle class="fil13 str60" cx="2508" cy="2397" r="20"/>
+  <circle class="fil60 str62" cx="2511" cy="2767" r="36"/>
+  <circle class="fil15 str63" cx="2511" cy="2767" r="20"/>
+ </g>
+</svg>
